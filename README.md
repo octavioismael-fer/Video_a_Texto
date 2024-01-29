@@ -23,7 +23,7 @@ Este proyecto permite convertir el audio de videos de YouTube a texto de manera 
 
 2. Instala las librerías necesarias:
    ```
-   pip install pytube whisper ffmpeg
+   pip install pytube whisper
    ```
    
 3. Instala FFmpeg:
